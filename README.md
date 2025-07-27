@@ -120,6 +120,9 @@ Para deploy no Streamlit Cloud:
 
 ## Contato
 
+O vídeo apresentando o sistema foi enviado via plataforma da FIAP.
+
+
 **João Paulo Lucchi**  
 Email: joaopaulolucchi@yahoo.com  
 RM: 360649
