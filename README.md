@@ -1,6 +1,6 @@
 # Sistema de Predição de Obesidade
 
-**Desenvolvido por:** João Paulo Lucchi  
+**Desenvolvido por:** João Paulo  
 **Tech Challenge - Fase 04**
 
 ## Descrição do Projeto
@@ -123,6 +123,4 @@ Para deploy no Streamlit Cloud:
 O vídeo apresentando o sistema foi enviado via plataforma da FIAP.
 
 
-**João Paulo Lucchi**  
-Email: joaopaulolucchi@yahoo.com  
-RM: 360649
+
