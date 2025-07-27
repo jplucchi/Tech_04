@@ -120,7 +120,7 @@ Para deploy no Streamlit Cloud:
 
 ## Contato
 
-O vídeo apresentando o sistema foi enviado via plataforma da FIAP.
+O link do vídeo apresentando o sistema foi enviado via plataforma da FIAP.
 
 
 
